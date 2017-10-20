@@ -5,7 +5,7 @@
 ## Models
 - Post -> date:date rationale:text
 - User -> Devise
-- AdminUser -> STI
+x AdminUser -> STI
 
 ## Features:
 - Approval Workflow
@@ -15,4 +15,4 @@
 - Needs to be documented if dealer did not signup
 
 ## UI:
-Bootstrap -> formatting
+- Bootstrap -> formatting
