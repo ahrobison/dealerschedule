@@ -1,6 +1,6 @@
 ## luckysevens app
 
-## Key requirement: company needs documentation that salaried employees did or did not get overtime each week
+## Key requirement: make dealers able to select events to work and provide admin with ability to approve and/or update
 
 ## Models
 - Post -> date:date rationale:text
