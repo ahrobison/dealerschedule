@@ -3,8 +3,8 @@
 ## Key requirement: make dealers able to select events to work and provide admin with ability to approve and/or update
 
 ## Models
-- Post -> date:date rationale:text
-- User -> Devise
+- Post -> Admin can post date:date event:text 
+x User -> Devise
 x AdminUser -> STI
 
 ## Features:
@@ -16,3 +16,4 @@ x AdminUser -> STI
 
 ## UI:
 - Bootstrap -> formatting
+
